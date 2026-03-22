@@ -6,4 +6,4 @@ This is a Spring Boot application for a pixel-based game with WebSocket support.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Stich3/pixelgrid.git
+   git clone https://github.com/lifofin/pixelgrid.git
